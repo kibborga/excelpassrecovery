@@ -1,0 +1,13 @@
+[package]
+name = "officepass"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+calamine = "0.19.1"
+clap = "4.2.7"
+itertools = "0.10.5"
+lazy_static = "1.4.0"
+#docx = "<1.1"
+load_file = "1.0.1"
+office-crypto = "0.1.0"
