@@ -4,7 +4,7 @@ Usage: officepass [OPTIONS] <INPUT>
 
 Arguments:
   <INPUT>  the input file name
-
+```
 Options:
   -m, --min <MIN>          minimum password length (default: 1)
   -M, --max <MAX>          maximum password length (default: 10)
@@ -16,3 +16,4 @@ Options:
   -v, --verbose            verbose mode
   -h, --help               Print help
   -V, --version            Print version
+```
