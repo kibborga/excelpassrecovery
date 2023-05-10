@@ -1,10 +1,10 @@
 Excel password recovery tool. Supports .xls and .xlsx formats.
-
+```
 Usage: officepass [OPTIONS] <INPUT>
 
 Arguments:
   <INPUT>  the input file name
-```
+
 Options:
   -m, --min <MIN>          minimum password length (default: 1)
   -M, --max <MAX>          maximum password length (default: 10)
